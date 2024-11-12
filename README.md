@@ -11,6 +11,8 @@ After creating a new repository from this template, you should update the follow
 - [ ] You must keep the `LICENSE` file and the `Licensing` folder as the license requires it
   - And all the files from this template repository are governed by the Mizumoto General Public License
 - [ ] Setup a `codecov` token in the repository secrets from <https://app.codecov.io/>.
+- [ ] Update `.golangci.yml` with the correct go version
+- [ ] Update the `.lincenserc.json` file with the correct license information
 
 ## Table of Contents
 
